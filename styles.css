@@ -5,23 +5,17 @@
 }
 .funParagraph{
     color: green;
+    font-size: large;
 }
 header{
     padding: auto;
 }
-p{
-    padding: 8px;
-}
-h2{
-    margin: 0;
-    /* background-color: aqua; */
+figure {
+	margin: 5px;
+	padding: 2px;
+	text-align: center;
 }
 body{
     margin: 8px;
-    display: block;
-}
-section{
-    margin: 8px;
-    padding: 1px;
     display: block;
 }
