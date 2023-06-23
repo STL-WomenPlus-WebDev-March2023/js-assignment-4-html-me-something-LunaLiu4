@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+#mainHeading{
+    text-align: center;
+    color: red;
+}
+.funParagraph{
+    color: green;
+}
+header{
+    padding: auto;
+}
+p{
+    padding: 8px;
+}
+h2{
+    margin: 0;
+    /* background-color: aqua; */
+}
+body{
+    margin: 8px;
+    display: block;
+}
+section{
+    margin: 8px;
+    padding: 1px;
+    display: block;
+}
