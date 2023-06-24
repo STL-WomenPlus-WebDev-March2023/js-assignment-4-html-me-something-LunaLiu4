@@ -7,9 +7,7 @@
     color: green;
     font-size: large;
 }
-header{
-    padding: auto;
-}
+
 figure {
 	margin: 5px;
 	padding: 2px;
@@ -18,4 +16,8 @@ figure {
 body{
     margin: 8px;
     display: block;
+}
+footer {
+    text-align: center;
+    padding: 3em;
 }
