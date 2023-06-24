@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+#mainHeading{
+    text-align: center;
+    color: red;
+}
+.funParagraph{
+    color: green;
+    font-size: large;
+}
+
+figure {
+	margin: 5px;
+	padding: 2px;
+	text-align: center;
+}
+body{
+    margin: 8px;
+    display: block;
+}
+footer {
+    text-align: center;
+    padding: 3em;
+}
